@@ -1,0 +1,5 @@
+# Ignore input files.
+*.txt
+
+# Ignore executables.
+*.out
