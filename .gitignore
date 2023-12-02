@@ -3,3 +3,8 @@
 
 # Ignore executables.
 *.out
+
+
+# Added by cargo
+
+/target
